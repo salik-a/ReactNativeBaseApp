@@ -18,7 +18,7 @@
 // import Bugsnag from "@bugsnag/expo"
 
 /**
- *  This is where you put your crash reporting service initialization code to call in `./app/app.tsx`
+ *  This is where you put your crash reporting service initialization code to call in `./src/app.tsx`
  */
 export const initCrashReporting = () => {
   // Sentry.init({

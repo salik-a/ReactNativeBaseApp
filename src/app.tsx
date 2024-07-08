@@ -7,7 +7,7 @@
  * it very often. But take some time to look through and understand
  * what is going on here.
  *
- * The app navigation resides in ./app/navigators, so head over there
+ * The app navigation resides in ./src/navigators, so head over there
  * if you're interested in adding screens and navigators.
  */
 if (__DEV__) {
